@@ -13,7 +13,7 @@ Titre :
 Date de rédaction : jj/mm/aaaa
 Date des faits : jj/mm/aaaa
 Lieu des faits : ISO 3166-1
-La partie à l'initiative de l'opération : 
+Opérateur : 
 Résumé : [text]
 Tactique_liée : multivalué, text --> créer liste intermédiaire afin d'avoir du vocabulaire contrôlé
 Technique_liée : multivalué, text --> créer liste intermédiaire
