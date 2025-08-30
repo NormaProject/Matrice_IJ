@@ -27,6 +27,7 @@ Complexité opération = durée + Nb de branches de droit mobilisées + Nb de te
 ## Technique
 
 Tempo : 1,2,3
+Portée_pratique_de_la_technique :
 
 ## Contre-mesures
 
