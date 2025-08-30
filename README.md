@@ -2,7 +2,7 @@
 
 ## L'opérateur
 
-Ex STIX name, description, threat_actor_types, aliases, first_seen, last_seen, roles, goals,
+Ex STIX threat_actor : name, description, threat_actor_types, aliases, first_seen, last_seen, roles, goals,
 sophistication, resource_level, primary_motivation, secondary_motivations,
 personal_motivations
 
