@@ -28,9 +28,9 @@ Complexité opération = durée + Nb de branches de droit mobilisées + Nb de te
 
 Tempo : 1,2,3
 Portée_pratique_de_la_technique :
-
+Clé correspondance Contre-mesure :
 ## Contre-mesures
-
+Clé correspondance Technique :
 ## Tactique
 
 
