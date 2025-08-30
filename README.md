@@ -8,7 +8,7 @@ personal_motivations
 
 ## La cible (0.1)
 
-## Usecase
+## Cas d'application
 Titre :
 Date de rédaction : jj/mm/aaaa
 Date des faits : jj/mm/aaaa
@@ -23,6 +23,7 @@ Branche_droit : multivalué, text --> créer liste intermédiaire
 Mesurer les effets/la portée de l'usecase : à qualifier
 --> critères ?
 
+Complexité opération = durée + Nb de branches de droit mobilisées + Nb de techniques
 ## Technique
 
 Tempo : 1,2,3
