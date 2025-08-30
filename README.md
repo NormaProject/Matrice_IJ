@@ -25,6 +25,8 @@ Mesurer les effets/la portée de l'usecase : à qualifier
 
 ## Technique
 
+Tempo : 1,2,3
+
 ## Contre-mesures
 
 ## Tactique
