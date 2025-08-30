@@ -12,6 +12,7 @@ personal_motivations
 Titre :
 Date de rédaction : jj/mm/aaaa
 Date des faits : jj/mm/aaaa
+Durée : (nb de jours)
 Lieu des faits : ISO 3166-1
 Opérateur : 
 Résumé : [text]
