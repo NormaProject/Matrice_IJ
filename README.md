@@ -24,6 +24,10 @@ Mesurer les effets/la portée de l'usecase : à qualifier
 
 ## Technique
 
+## Contre-mesures
+
 ## Tactique
+
+
 
 
