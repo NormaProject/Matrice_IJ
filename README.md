@@ -15,13 +15,15 @@ Date des faits : jj/mm/aaaa
 Lieu des faits : ISO 3166-1
 La partie à l'initiative de l'opération : 
 Résumé : [text]
-
-Tactique_liée : multivalué, text
-Technique_liée : multivalué, text
-Branche_droit : multivalué, text 
+Tactique_liée : multivalué, text --> créer liste intermédiaire afin d'avoir du vocabulaire contrôlé
+Technique_liée : multivalué, text --> créer liste intermédiaire
+Branche_droit : multivalué, text --> créer liste intermédiaire
 
 Mesurer les effets/la portée de l'usecase : à qualifier
 --> critères ?
 
+## Technique
+
+## Tactique
 
 
