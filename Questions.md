@@ -4,3 +4,4 @@
 2 - Quels sont les Usecases rattachés à un opérateur ?
 3 - Quelle est la technique la plus utilisée en France pour ralentir un processus ?
 4 - Rechercher des techniques par tempo
+5 - Nombre de Usecases utilisant X Technique
