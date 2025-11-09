@@ -1,4 +1,7 @@
 ID,name,description
-00,planifier la stratégie,""
 01,Déterminer les finalités stratégiques,"Définir l'état final recherché que l'opération vise à atteindre. Par exemple, l'obtention d'une position avantageuse vis-à-vis des compétiteurs en termes de pouvoir ou d'influence. Les finalités stratégiques peuvent être d'améliorer ou simplement de maintenir une position existante. Cette compétition se déroule dans la sphère publique aussi bien dans les domaines militaire, diplomatique, politique, économique ou idéologique. Elle peut se jouer entre des groupes armés, des États nations, des partis politiques, des groupes d'intérêt ou des individus."
+01.1,Gain géopolitique,"Obtenir une position favorable sur la scène internationale."
+01.2,Gain politique domestique,"Obtenir une position favorable vis-à-vis des oppositions à tous les échelons de la scène politique domestique."
+01.3,Gain économique,"Obtenir une position favorable domestiquement ou internationalement dans les milieux du commerce, des échanges, de la finance et de l'industrie. Les acteurs impliqués peuvent être les États-nations, les corporations, les banques, les groupements industriels, les cartels."
+01.4,Gain idéologique,"Obtenir une position favorable localement ou à l'international sur le marché des idées, des croyances et des visions du monde. La compétition met en jeu des systèmes de croyance, des systèmes politiques et des systèmes de valeurs. Elle inclut des mouvements sous-nationaux, nationaux et supra-nationaux."
 
