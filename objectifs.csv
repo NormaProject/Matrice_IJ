@@ -1,5 +1,5 @@
 ID,nom,description
-xx,Déterminer les objectifs,Définir des objectifs intermédiaires permettant d'atteindre l'état final recherché. 
+OB,Déterminer les objectifs,Définir des objectifs intermédiaires permettant d'atteindre l'état final recherché. 
 xx,Accélérer un processus,"Accélérer un processus consiste à augmenter la vitesse à laquelle une série d'actions ou d'opérations est réalisée pour atteindre un résultat plus rapidement."
 xx,Ralentir un processus,"Ralentir un processus implique de retarder délibérément son déroulement ou sa progression normale. Cela peut être réalisé en introduisant des obstacles, des retards intentionnels, ou en limitant les ressources disponibles."
 xx,Acquérir de l'information,xx
@@ -21,3 +21,5 @@ xx,Dissuader d'agir,"Décourager ou empêcher la cible de mener des actions qui 
 xx.01,Dissuader,"Empêcher la cible de mener des actions par peur des conséquences.La cible est amenée à penser que ses actions auront un impact plus négatif que son inaction."
 xx.02,Réduire au silence,"Intimider ou inciter la cible à rester silencieuse ou l'empêcher de s'exprimer."
 xx.03,Décourager,"Faire en sorte que la cible soit réticente à agir, s'interrogeant sur l'utilité, la légalité ou la moralité de ses actions."
+xx,Réparer un préjudice,"Obtenir compensation pour des dommages subis, réels ou allégués."
+xx,Sanctionner un comportement,"Imposer des sanctions telles que des amendes ou de l'emprisonnement."
