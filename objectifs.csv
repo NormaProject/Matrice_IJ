@@ -11,6 +11,9 @@ XX.01.3,Imiter,"L’imitation consiste à reconstituer des éléments fictifs po
 xx,Divulger de l'information,xx
 xx,Récolter de l'argent,xx
 xx,Dégrader l'image de l'adversaire,"Dégrader l'image de l'adversaire consiste à utiliser des techniques visant à ternir la réputation, l'intégrité ou la crédibilité d'une personne, d'une organisation ou d'un groupe."
-xx,Provoquer,"Exciter quelqu'un, le pousser, par un défi lancé ou par des outrances d'attitude ou de langage, à une action souvent violente et appelant elle-même une riposte."
-xx,Inciter,xx
-xx.01,Encourager la délation,"Encourager la délation consiste à inciter les individus à signaler ou à dénoncer secrètement les comportements ou les activités d'autres personnes aux autorités ou à d'autres personnes en position d'autorité."
+xx,Susciter un comportement,Susciter un comportement implique de provoquer ou d'inciter délibérément une réaction spécifique chez une personne ou un groupe. Cela peut être réalisé en utilisant différents stimuli, tels que des incitations, des suggestions, des encouragements, ou des influences sociales, dans le but de motiver ou de guider le comportement souhaité.
+xx.01,Provoquer,"Exciter quelqu'un, le pousser, par un défi lancé ou par des outrances d'attitude ou de langage, à une action souvent violente et appelant elle-même une riposte."
+xx.02,Inciter,xx
+xx.02.01,Encourager la délation,"Encourager la délation consiste à inciter les individus à signaler ou à dénoncer secrètement les comportements ou les activités d'autres personnes aux autorités ou à d'autres personnes en position d'autorité."
+XX.03,Contraindre,"Forcer une cible à agir ou à arrêter une action déjà commencée."
+xx.04,Dissuader,Empêcher la cible de mener des actions par peur des conséquences.
