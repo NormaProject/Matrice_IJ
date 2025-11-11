@@ -11,7 +11,6 @@
 8,Troll aux droits d'auteurs,"Technique utilisée par certains détenteurs de droits d'auteur pour exercer une pression sur les personnes présumées avoir violé leurs droits d'auteur sur Internet. Cette technique implique d'envoyer des demandes de règlement ou des menaces de poursuites à des individus accusés de violation de droits d'auteur, souvent basées sur des preuves minces ou des demandes exagérées de dommages et intérêts. Les ""copyright trolls"" comptent souvent sur la peur de poursuites coûteuses pour inciter les personnes ciblées à accepter des règlements à l'amiable plutôt que de contester les accusations en justice."
 9,Défense de rupture,"Une défense de rupture (ou un procès de rupture) est un procès au cours duquel le prévenu ou l'accusé dénie au juge ou à la juridiction toute légitimité pour les juger. La défense consiste principalement à répondre non pas sur le terrain juridique mais sur le terrain politique."
 10,Défense de connivence,"Une défense de connivence (ou un procès de connivence) est un procès au cours duquel les parties reconnaissent au juge ou à la juridiction la légitimité de les juger."
-11,Divulgation juridique,"Les divulgations juridiques sont des techniques par lesquelles les parties impliquées sont tenues de se fournir des informations afin de constituer leurs dossiers respectifs. Cette procédure peut comprendre des demandes de documents, des réponses à des questions écrites et des dépositions."
 13,Procédure-bâillon,"Action en justice visant à intimider et à faire taire un journaliste ou lanceur d'alerte ou à entraver la participation politique et le militantisme. Il s'agit le plus souvent d’une poursuite civile en diffamation, intentée contre un individu ou un organisme ayant pris parti dans le cadre d’un enjeu public. Le concept inclut les menaces de poursuite. Le succès d'une telle opération n'est pas tant une victoire devant les tribunaux qu'une intimidation suffisante de la partie défenderesse (celle attaquée) ou un épuisement financier la réduisant au silence."
 14,Démission silencieuse,"La démission silencieuse (ou quiet quitting) désigne une attitude dans laquelle un salarié cesse de s’investir au-delà du strict minimum requis par son poste. Autrement dit, il accomplit uniquement les tâches prévues par son contrat, sans engagement supplémentaire ni participation volontaire à des missions additionnelles."
 15,Pilule empoisonnée,"Technique de défense utilisée par une entreprise pour empêcher ou décourager une prise de contrôle hostile. Elle consiste à rendre l’entreprise moins attractive ou plus coûteuse à acquérir, par exemple, en émettant automatiquement lors d'une OPA de nouvelles actions à prix réduit pour les actionnaires existants, diluant ainsi la participation de l’acheteur potentiel"
@@ -24,13 +23,6 @@
 21,Estoppel,"Interdiction de se contredire au détriment d’autrui"
 22,Déni plausible,"Le déni plausible (plausible deniability) est la capacité d’un acteur (gouvernement, organisation ou individu) à réfuter de façon crédible sa connaissance ou sa responsabilité d’actes répréhensibles, en raison de l’absence de preuves directes ou d’une structure décisionnelle délibérément opaque."
 23,Grève du zele,"Technique de pression concertée qu'exerce un groupe de salariés sur son employeur, habituellement sur l'initiative du syndicat, et qui consiste à appliquer les normes de travail établies par l'employeur d'une façon tellement stricte qu'elle entraîne une certaine désorganisation du travail."
-24,Veille juridique,"Activité systématique de collecte, d’analyse et de diffusion d’informations relatives aux évolutions du droit, qu’il s’agisse de textes, de jurisprudence, de doctrine ou de pratiques administratives."
-24.1,Veille brevet,"Forme spécialisée de veille juridique et technologique consistant à surveiller en continu les dépôts, publications et évolutions de brevets dans un domaine donné."
-24.2,Veille jurisprudentielle,"Surveillance des décisions de justice afin d’identifier les évolutions d’interprétation du droit positif."
-24.3,Veille doctrinale,"Surveillance de la production scientifique et doctrinale (articles, commentaires, thèses) pour comprendre les tendances intellectuelles du droit."
-24.4,Veille contractuelle,"Surveillance des modèles, clauses et pratiques contractuelles"
-24.5,Veille législative,"Surveillance des initiatives et évolutions parlementaires afin d’anticiper les changements dans le cadre normatif applicable"
-24.6,Veille réglementaire,"Surveillance des textes d’application du droit (décrets, arrêtés, directives, circulaires)"
 25,Procédure de référé,"La procédure de référé est une procédure d'urgence visant à prévenir un dommage ou faire cesser un trouble illicite. Ellepermet d'obtenir rapidement une décision provisoire ou temporaire d'un tribunal sans attendre le jugement sur le fond de l'affaire."
 25.1,Consignation,"Les mesures de consignation sont des procédures consistant à déposer une somme d’argent ou un bien auprès d’un tiers autorisé afin de garantir l’exécution d’une obligation ou préserver des droits en attente d’une décision définitive."
 25.2,Référé expertise,"Procédure d’urgence qui permet de demander au juge de désigner un expert pour éclairer les faits d’un litige potentiel ou existant."
@@ -41,7 +33,19 @@
 29,Action paulienne,"Procédure permettant à un créancier de faire déclarer inopposables les actes accomplis par son débiteur en fraude de ses droits.Elle a pour but de protéger le gage du créancier en annulant les actes frauduleux qui ont appauvri le patrimoine du débiteur au détriment de sa créance."
 30,Action récursoire,"Action par laquelle une personne contre laquelle est introduite une instance, y fait intervenir un tiers pour qu'il réponde des condamnations qui pourront être prononcées contre elle."
 31,Récusation,"La récusation est une procédure permettant de demander qu’un juge, arbitre ou expert soit écarté d’une affaire lorsqu’il existe des motifs légitimes de douter de son impartialité ou de son indépendance. Elle vise à garantir le droit à un procès équitable en préservant la neutralité de la juridiction ou de l’arbitre."
+xx.01,Obtenir des informations technico-légales,xx
+24,Veille juridique,"Activité systématique de collecte, d’analyse et de diffusion d’informations relatives aux évolutions du droit, qu’il s’agisse de textes, de jurisprudence, de doctrine ou de pratiques administratives."
+24.1,Veille brevet,"Forme spécialisée de veille juridique et technologique consistant à surveiller en continu les dépôts, publications et évolutions de brevets dans un domaine donné."
+24.2,Veille jurisprudentielle,"Surveillance des décisions de justice afin d’identifier les évolutions d’interprétation du droit positif."
+24.3,Veille doctrinale,"Surveillance de la production scientifique et doctrinale (articles, commentaires, thèses) pour comprendre les tendances intellectuelles du droit."
+24.4,Veille contractuelle,"Surveillance des modèles, clauses et pratiques contractuelles"
+24.5,Veille législative,"Surveillance des initiatives et évolutions parlementaires afin d’anticiper les changements dans le cadre normatif applicable"
+24.6,Veille réglementaire,"Surveillance des textes d’application du droit (décrets, arrêtés, directives, circulaires)"
 32,Mesure d'instruction,"Une mesure d’instruction est une décision du juge ordonnant la recherche, la conservation ou la production d’éléments de preuve nécessaires à la résolution d’un litige. Elle vise à éclairer le juge sur les faits par des moyens tels que l’expertise, l’enquête, la constatation, l’audition de témoins ou la production de documents."
+11,Divulgation juridique,"Les divulgations juridiques sont des techniques par lesquelles les parties impliquées sont tenues de se fournir des informations afin de constituer leurs dossiers respectifs. Cette procédure peut comprendre des demandes de documents, des réponses à des questions écrites et des dépositions."
+xx.02,Obtenir des informations humaines,xx
+xx.02.01,Renseignement humain,"Recruter, convaincre ou contraindre des personnes (anciens employés, partenaires, experts) à fournir témoignage ou documents."
+xx.02.02,Ingénierie sociale,"Manipulation consistant à obtenir un bien ou une information, en exploitant la confiance, l'ignorance ou la crédulité de tierces personnes."
 
 
 
