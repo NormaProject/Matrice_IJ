@@ -43,9 +43,14 @@ xx.01,Obtenir des informations technico-légales,xx
 24.6,Veille réglementaire,"Surveillance des textes d’application du droit (décrets, arrêtés, directives, circulaires)"
 32,Mesure d'instruction,"Une mesure d’instruction est une décision du juge ordonnant la recherche, la conservation ou la production d’éléments de preuve nécessaires à la résolution d’un litige. Elle vise à éclairer le juge sur les faits par des moyens tels que l’expertise, l’enquête, la constatation, l’audition de témoins ou la production de documents."
 11,Divulgation juridique,"Les divulgations juridiques sont des techniques par lesquelles les parties impliquées sont tenues de se fournir des informations afin de constituer leurs dossiers respectifs. Cette procédure peut comprendre des demandes de documents, des réponses à des questions écrites et des dépositions."
+xx.xx,Collecte technique,"Intrusion, interception (MITM), exfiltration de fichiers visés pour produire des preuves ou des renseignements utilisable"
+xx.xx,Enquete en source ouverte,xx
+xx.xx,Recours à un detective privé,xx
 xx.02,Obtenir des informations humaines,xx
 xx.02.01,Renseignement humain,"Recruter, convaincre ou contraindre des personnes (anciens employés, partenaires, experts) à fournir témoignage ou documents."
 xx.02.02,Ingénierie sociale,"Manipulation consistant à obtenir un bien ou une information, en exploitant la confiance, l'ignorance ou la crédulité de tierces personnes."
+xx,Constat d'huissier,"mode de preuve destiné à donner à des faits une valeur juridique"
+
 
 
 
