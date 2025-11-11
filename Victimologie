@@ -1,0 +1,6 @@
+Vi,victimologie,"typologie des victimes entendu comme les cibles des opérations juridiques."
+Vi01,Secteurs,"L’entité Secteur est utilisée pour représenter le ciblage de certains intérêts. Les secteurs retenus sont « haut niveau » à dessein. Voici des exemples de secteurs susceptibles d’être ciblés par une opération : Institutions de l’État ; Intérêts économiques, industriels et scientifiques ; Patrimoine culturel ; Personnalités de l’État ; Politique étrangère ; Sécurité et défense nationale. L’entité sert également à représenter des secteurs d’activités, tels que médias, ONG, etc."
+Vi02,Pays,"Division territoriale habitée par une collectivité, et constituant une entité géographique et humaine."
+Vi03,Événements,L’évènement décrit un événement physique exploité lors de l'opération. Ces événements doivent être assez larges pour qu’ils soient susceptibles d’être la cible de plusieurs manœuvres."
+Vi04,Individus,"Personne physique qui n’est pas considérée comme un Acteur de la menace : cible de l'opération etc."
+Vi05,Organisations,"Personne morale qui n’est pas considérée comme un Acteur de la menace : entreprise, ONG ou association cible de l'opération etc."
