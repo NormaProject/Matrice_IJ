@@ -1,4 +1,5 @@
 ﻿ID,name,description
+xx,TOTO,exemple
 1,Cavalier législatif,"Un cavalier législatif désigne des amendements ou des dispositions non liés au sujet principal d'un projet de loi, mais ajoutés délibérément pour atteindre des objectifs politiques ou législatifs spécifiques."
 2,Déclaration de non injonction,"Déclaration publique décrivant une action qu'un fournisseur de services n'a pas effectuée. La déclaration est supprimée si le fournisseur de services obtient un ordre légal de prendre cette action mais qu'il lui est interdit de la divulguer."
 3,Obstruction parlementaire,"Technique parlementaire visant à retarder le plus possible l'adoption d'une loi ou plus largement d’une décision à l'aide des moyens réglementaires prévue par l’institution."
@@ -50,6 +51,7 @@ xx.02,Obtenir des informations humaines,xx
 xx.02.01,Renseignement humain,"Recruter, convaincre ou contraindre des personnes (anciens employés, partenaires, experts) à fournir témoignage ou documents."
 xx.02.02,Ingénierie sociale,"Manipulation consistant à obtenir un bien ou une information, en exploitant la confiance, l'ignorance ou la crédulité de tierces personnes."
 xx,Constat d'huissier,"mode de preuve destiné à donner à des faits une valeur juridique"
+
 
 
 
