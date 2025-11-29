@@ -1,0 +1,28 @@
+{
+  "usecase_id": "string",
+  "titre": "string",
+  "url": "string",
+  "date_publication_zulu": "datetime",
+  "date_analyse_zulu": "datetime",
+  "auteur": "string",
+
+  "resume": "string",
+
+  "mecanisme_juridique": "string",
+
+  "attaquant": {
+    "type_attaquant": "string",
+    "attaquant_pays_nato": "string"
+  },
+
+  "victime": {
+    "type_victime": "string",
+    "victime_nom": "string"
+  },
+
+  "classification": {
+    "techniques_id": ["string"],
+    "objectifs_id": ["string"],
+    "capacites_id": ["string"]
+  }
+}
