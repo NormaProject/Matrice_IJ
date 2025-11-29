@@ -1,0 +1,25 @@
+ID,name,description
+TECH-001,TOTO,exemple
+TECH-002,Cavalier législatif,Insertion d’amendements sans lien avec le texte principal.
+TECH-003,Déclaration de non injonction,Déclaration publique décrivant une action non effectuée.
+TECH-004,Obstruction parlementaire,Technique visant à retarder l'adoption d'une loi.
+TECH-005,Flibustier,Parler continuellement pour empêcher un vote.
+TECH-006,Bataille d'amendement,Dépôt massif d’amendements pour ralentir la procédure.
+TECH-007,Attaque par le point d'eau,Compromission d’un vecteur juridique légitime.
+TECH-008,Charcutage électoral,Redécoupage électoral partisan.
+TECH-009,Chicaner,Respect formel d’un accord pour en détourner le sens.
+TECH-010,Piège aux droits d'auteurs,Insertion d’éléments pour détecter une copie.
+TECH-011,Troll aux droits d'auteurs,Pression juridique abusive fondée sur le copyright.
+TECH-012,Défense de rupture,Refus de reconnaître la légitimité du juge.
+TECH-013,Défense de connivence,Acceptation stratégique de la juridiction.
+TECH-014,Procédure-bâillon,Action judiciaire visant à intimider ou réduire au silence.
+TECH-015,Démission silencieuse,Désengagement volontaire limité au strict minimum.
+TECH-016,Pilule empoisonnée,Mécanisme de défense contre une prise de contrôle hostile.
+TECH-017,Piège à canaris,Différenciation des documents pour révéler une fuite.
+TECH-018,Parasitisme de brevets,Utilisation contentieuse de brevets sans innovation.
+TECH-019,Lobbying,Influence exercée sur les décisions publiques.
+TECH-020,Forum shopping,Choix stratégique de la juridiction.
+TECH-021,Forum running,Saisir en premier pour imposer le for.
+TECH-022,Action torpille,Saisine dilatoire d’une juridiction incompétente.
+TECH-023,Déni plausible,Organisation permettant de nier une responsabilité.
+TECH-024,Grève du zele,Application excessive des règles à des fins de pression.
