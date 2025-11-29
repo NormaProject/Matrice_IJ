@@ -7,7 +7,6 @@
   "auteur": "string",
 
   "resume": "string",
-
   "mecanisme_juridique": "string",
 
   "attaquant": {
@@ -21,8 +20,16 @@
   },
 
   "classification": {
-    "techniques_id": ["string"],
-    "objectifs_id": ["string"],
-    "capacites_id": ["string"]
+    "techniques_id": ["string or null"],
+    "techniques_match": "boolean",
+    "techniques_proposition": ["string"],
+
+    "objectifs_id": ["string or null"],
+    "objectifs_match": "boolean",
+    "objectifs_proposition": ["string"],
+
+    "capacites_id": ["string or null"],
+    "capacites_match": "boolean",
+    "capacites_proposition": ["string"]
   }
 }
