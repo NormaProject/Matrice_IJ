@@ -1,39 +1,39 @@
 ID,name,description
 TECH-001,TOTO,exemple
-TECH-002,Cavalier législatif,Insérer dans un texte législatif des dispositions sans lien direct avec son objet principal afin d’imposer des effets juridiques indirects.
-TECH-003,Déclaration de non injonction,Publier une déclaration attestant qu’aucune action interdite n’a été entreprise tout en neutralisant les effets d’une mesure secrète.
-TECH-004,Obstruction parlementaire,Exploiter les règles procédurales parlementaires pour ralentir ou empêcher l’adoption d’un texte ou d’une décision.
-TECH-005,Flibustier,Monopoliser le temps de parole institutionnel pour empêcher l’aboutissement d’un vote ou d’une décision.
-TECH-006,Bataille d’amendements,Déposer un volume massif d’amendements afin de saturer l’examen parlementaire.
-TECH-007,Attaque par le point d’eau,Compromettre un vecteur juridique ou informationnel légitime afin d’infecter l’environnement normatif de la cible.
-TECH-008,Charcutage électoral,Redessiner les circonscriptions électorales dans un but de déséquilibre politique contrôlé.
-TECH-009,Chicaner,Respecter formellement un engagement juridique afin d’en détourner l’esprit ou l’effet recherché.
-TECH-010,Piège aux droits d’auteur,Insérer volontairement des éléments traçables dans une œuvre protégée afin de détecter une copie ou une réutilisation.
-TECH-011,Troll aux droits d’auteur,Multiplier les procédures ou menaces fondées sur le droit d’auteur afin d’exercer une pression financière ou dissuasive.
-TECH-012,Défense de rupture,Refuser la légitimité de la juridiction afin de déplacer le débat du juridique vers le politique.
-TECH-013,Défense de connivence,Reconnaître la légitimité juridictionnelle afin d’exploiter le cadre procédural à son avantage.
-TECH-014,Procédure-bâillon,Engager une procédure judiciaire principalement destinée à intimider, épuiser ou réduire au silence une cible.
-TECH-015,Démission silencieuse,Limiter volontairement l’engagement professionnel aux obligations strictement contractuelles en vue d’une désorganisation indirecte.
-TECH-016,Pilule empoisonnée,Introduire des mécanismes juridiques ou financiers rendant une prise de contrôle hostile excessivement coûteuse.
-TECH-017,Piège à canaris,Distribuer des versions différenciées d’un document afin d’identifier l’origine d’une fuite d’information.
-TECH-018,Parasitisme de brevets,Utiliser des brevets exclusivement à des fins contentieuses sans intention d’exploitation industrielle.
-TECH-019,Lobbying,Influencer les processus décisionnels publics par une interaction structurée avec les responsables publics ou institutionnels.
-TECH-020,Forum shopping,Choisir stratégiquement une juridiction parmi plusieurs possibles afin d’optimiser l’issue du litige.
-TECH-021,Forum running,Saisir une juridiction en premier afin d’imposer le for et contraindre l’adversaire.
-TECH-022,Action torpille,Saisir volontairement une juridiction incompétente afin de provoquer un effet dilatoire par litispendance.
-TECH-023,Déni plausible,Structurer la chaîne de décision ou d’information afin de permettre une négation crédible de responsabilité.
-TECH-024,Grève du zèle,Appliquer strictement et excessivement les règles internes afin de provoquer une désorganisation opérationnelle.
-TECH-025,Multiplication de contentieux simultanés,Initier plusieurs procédures coordonnées sur différents fronts afin de saturer la capacité de réponse adverse.
-TECH-026,Forum flooding,Saturer intentionnellement juridictions ou autorités administratives par un afflux massif de procédures ou signalements.
-TECH-027,Exploitation extraterritoriale du droit national,Appliquer ou menacer d’appliquer des lois nationales à des acteurs étrangers hors du territoire.
-TECH-028,Plainte stratégique auprès des régulateurs,Saisir des autorités administratives ou de régulation afin d’exercer une pression indirecte sur une cible.
-TECH-029,Norme technique verrouillante,Concevoir ou imposer des standards juridiques ou techniques destinés à exclure certains acteurs du marché.
-TECH-030,Sanctions juridiques privées,Externaliser l’exécution d’une politique juridique coercitive vers des acteurs privés ou contractuels.
-TECH-031,Qualification juridique hostile,Redéfinir juridiquement un acteur ou une activité comme illégale, terroriste ou prohibée afin de justifier des mesures coercitives.
-TECH-032,Amicus curiae stratégique,Intervenir de manière ciblée dans une procédure tiers afin d’orienter l’interprétation jurisprudentielle.
-TECH-033,Procéduralisme excessif,Exploiter systématiquement les garanties et voies de recours afin de bloquer ou ralentir une action.
-TECH-034,Judiciarisation médiatique,Coordonner une procédure judiciaire avec une stratégie de communication publique pour amplifier ses effets.
-TECH-035,Conditionnement juridique d'accords diplomatiques,Subordonner des accords ou coopérations internationales à des exigences juridiques ciblées afin d’imposer des contraintes normatives ou politiques.
-TECH-036,Réinterprétation téléologique du droit,Étendre l’interprétation des finalités d’une norme afin d’en élargir artificiellement le champ d’application.
-TECH-037,Exposition judiciaire ciblée,Engager ou menacer des procédures précisément choisies afin de produire un effet dissuasif ou réputationnel par leur seule publicité.
-TECH-038,Contentieux climatique stratégique,Utiliser le droit environnemental ou climatique afin d’atteindre des objectifs politiques, économiques ou géostratégiques indirects.
+TECH-002,Cavalier législatif,"Insérer dans un texte législatif des dispositions sans lien direct avec son objet principal afin d’imposer des effets juridiques indirects."
+TECH-003,Déclaration de non injonction,"Publier une déclaration attestant qu’aucune action interdite n’a été entreprise tout en neutralisant les effets d’une mesure secrète."
+TECH-004,Obstruction parlementaire,"Exploiter les règles procédurales parlementaires pour ralentir ou empêcher l’adoption d’un texte ou d’une décision."
+TECH-005,Flibustier,"Monopoliser le temps de parole institutionnel pour empêcher l’aboutissement d’un vote ou d’une décision."
+TECH-006,Bataille d’amendements,"Déposer un volume massif d’amendements afin de saturer l’examen parlementaire."
+TECH-007,Attaque par le point d’eau,"Compromettre un vecteur juridique ou informationnel légitime afin d’infecter l’environnement normatif de la cible."
+TECH-008,Charcutage électoral,"Redessiner les circonscriptions électorales dans un but de déséquilibre politique contrôlé."
+TECH-009,Chicaner,"Respecter formellement un engagement juridique afin d’en détourner l’esprit ou l’effet recherché."
+TECH-010,Piège aux droits d’auteur,"Insérer volontairement des éléments traçables dans une œuvre protégée afin de détecter une copie ou une réutilisation."
+TECH-011,Troll aux droits d’auteur,"Multiplier les procédures ou menaces fondées sur le droit d’auteur afin d’exercer une pression financière ou dissuasive."
+TECH-012,Défense de rupture,"Refuser la légitimité de la juridiction afin de déplacer le débat du juridique vers le politique."
+TECH-013,Défense de connivence,"Reconnaître la légitimité juridictionnelle afin d’exploiter le cadre procédural à son avantage."
+TECH-014,Procédure-bâillon,"Engager une procédure judiciaire principalement destinée à intimider, épuiser ou réduire au silence une cible."
+TECH-015,Démission silencieuse,"Limiter volontairement l’engagement professionnel aux obligations strictement contractuelles en vue d’une désorganisation indirecte."
+TECH-016,Pilule empoisonnée,"Introduire des mécanismes juridiques ou financiers rendant une prise de contrôle hostile excessivement coûteuse."
+TECH-017,Piège à canaris,"Distribuer des versions différenciées d’un document afin d’identifier l’origine d’une fuite d’information."
+TECH-018,Parasitisme de brevets,"Utiliser des brevets exclusivement à des fins contentieuses sans intention d’exploitation industrielle."
+TECH-019,Lobbying,"Influencer les processus décisionnels publics par une interaction structurée avec les responsables publics ou institutionnels."
+TECH-020,Forum shopping,"Choisir stratégiquement une juridiction parmi plusieurs possibles afin d’optimiser l’issue du litige."
+TECH-021,Forum running,"Saisir une juridiction en premier afin d’imposer le for et contraindre l’adversaire."
+TECH-022,Action torpille,"Saisir volontairement une juridiction incompétente afin de provoquer un effet dilatoire par litispendance."
+TECH-023,Déni plausible,"Structurer la chaîne de décision ou d’information afin de permettre une négation crédible de responsabilité."
+TECH-024,Grève du zèle,"Appliquer strictement et excessivement les règles internes afin de provoquer une désorganisation opérationnelle."
+TECH-025,Multiplication de contentieux simultanés,"Initier plusieurs procédures coordonnées sur différents fronts afin de saturer la capacité de réponse adverse."
+TECH-026,Forum flooding,"Saturer intentionnellement juridictions ou autorités administratives par un afflux massif de procédures ou signalements."
+TECH-027,Exploitation extraterritoriale du droit national,"Appliquer ou menacer d’appliquer des lois nationales à des acteurs étrangers hors du territoire."
+TECH-028,Plainte stratégique auprès des régulateurs,"Saisir des autorités administratives ou de régulation afin d’exercer une pression indirecte sur une cible."
+TECH-029,Norme technique verrouillante,"Concevoir ou imposer des standards juridiques ou techniques destinés à exclure certains acteurs du marché."
+TECH-030,Sanctions juridiques privées,"Externaliser l’exécution d’une politique juridique coercitive vers des acteurs privés ou contractuels."
+TECH-031,Qualification juridique hostile,"Redéfinir juridiquement un acteur ou une activité comme illégale, terroriste ou prohibée afin de justifier des mesures coercitives."
+TECH-032,Amicus curiae stratégique,"Intervenir de manière ciblée dans une procédure tierce afin d’orienter l’interprétation jurisprudentielle."
+TECH-033,Procéduralisme excessif,"Exploiter systématiquement les garanties et voies de recours afin de bloquer ou ralentir une action."
+TECH-034,Judiciarisation médiatique,"Coordonner une procédure judiciaire avec une stratégie de communication publique pour amplifier ses effets."
+TECH-035,Conditionnement juridique d'accords diplomatiques,"Subordonner des accords ou coopérations internationales à des exigences juridiques ciblées afin d’imposer des contraintes normatives ou politiques."
+TECH-036,Réinterprétation téléologique du droit,"Étendre l’interprétation des finalités d’une norme afin d’en élargir artificiellement le champ d’application."
+TECH-037,Exposition judiciaire ciblée,"Engager ou menacer des procédures précisément choisies afin de produire un effet dissuasif ou réputationnel par leur seule publicité."
+TECH-038,Contentieux climatique stratégique,"Utiliser le droit environnemental ou climatique afin d’atteindre des objectifs politiques, économiques ou géostratégiques indirects."
