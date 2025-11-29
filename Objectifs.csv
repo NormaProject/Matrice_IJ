@@ -1,31 +1,31 @@
 ID,nom,description
-OB,Déterminer les objectifs,Définir des objectifs intermédiaires permettant d'atteindre l'état final recherché. 
-xx,Accélérer un processus,"Accélérer un processus consiste à augmenter la vitesse à laquelle une série d'actions ou d'opérations est réalisée pour atteindre un résultat plus rapidement."
-xx,Ralentir un processus,"Ralentir un processus implique de retarder délibérément son déroulement ou sa progression normale. Cela peut être réalisé en introduisant des obstacles, des retards intentionnels, ou en limitant les ressources disponibles."
-xx,Acquérir de l'information,"désigne l'ensemble des actions juridiques, procédurales, techniques et humaines conçues pour collecter, extraire ou forcer la divulgation d'éléments informationnels"
-xx,Protéger de l'information,xx
-XX.01,Désinformer,"Vise à induire un ennemi en erreur pour lui faire adopter une attitude inadéquate qui facilitera la manœuvre amie"
-XX.01.1,Intoxiquer,"Injecter chez l’adversaire des nouvelles erronées pour fausser le jugement"
-XX.01.2,Simuler,"La simulation est l’accomplissement d’activités destinées à masquer les préparatifs d’une opération et à leurrer l’adversaire sur le lieu exact d’une attaque. "
-XX.01.3,Imiter,"L’imitation consiste à reconstituer des éléments fictifs pour abuser des moyens de reconnaissance adverses."
-xx.02,Dissimuler,"Cacher pour autrui, autant que faire se peut, par un moyen approprié."
-xx,Divulger de l'information,xx
-xx,Récolter de l'argent,xx
-xx,Dégrader l'image de l'adversaire,"Dégrader l'image de l'adversaire consiste à utiliser des techniques visant à ternir la réputation, l'intégrité ou la crédibilité d'une personne, d'une organisation ou d'un groupe."
-xx,Motiver à agir,"Persuader, forcer ou provoquer la cible à se comporter d'une manière favorable à l'attaquant."
-xx.01,Provoquer,"Exciter quelqu'un, le pousser, par un défi lancé ou par des outrances d'attitude ou de langage, à une action souvent violente et appelant elle-même une riposte."
-xx.02,Encourager,"Inspirer, inciter ou exhorter une cible à agir. Un acteur peut utiliser des suggestions directes ou indirectes à l'instar du nudge pour persuader une cible à agir dans l'intérêt de l'acteur."
-xx.02.01,Encourager la délation,"Encourager la délation consiste à inciter les individus à signaler ou à dénoncer secrètement les comportements ou les activités d'autres personnes aux autorités ou à d'autres personnes en position d'autorité."
-XX.03,Contraindre,"Forcer une cible à agir ou à arrêter une action déjà commencée. Les acteurs peuvent utiliser plusieurs types menaces : économiques, militaires ou réputationnelles. "
-xx,Dissuader d'agir,"Décourager ou empêcher la cible de mener des actions qui seraient défavorables à l'attaquant, en faisant en sorte que celle-ci se retienne elle-même."
-xx.01,Dissuader,"Empêcher la cible de mener des actions par peur des conséquences.La cible est amenée à penser que ses actions auront un impact plus négatif que son inaction."
-xx.02,Réduire au silence,"Intimider ou inciter la cible à rester silencieuse ou l'empêcher de s'exprimer."
-xx.03,Décourager,"Faire en sorte que la cible soit réticente à agir, s'interrogeant sur l'utilité, la légalité ou la moralité de ses actions."
-xx,Réparer un préjudice,"Obtenir compensation pour des dommages subis, réels ou allégués."
-xx,Sanctionner un comportement,"Imposer des sanctions telles que des amendes ou de l'emprisonnement."
-xx,Nuire,xx
-xx.01,Saboter,"Détruire ou endommager un système, un processus ou une relation."
-xx.02.,Diffamer ou calomnier,"chercher à dénigrer ou discréditer un adversaire au travers d'une action en justice qu'on sait infondée"
-xx,Légitimer,"Faire admettre, reconnaître quelque chose comme légitime, justifiable par l'équité, le droit, la raison, un motif supérieur."
-xx01,Faire reconnaitre l'existence d'un droit,"Promouvoir activement la prise de conscience et l'acceptation générale d'une revendication spécifique en tant que droit légitime."
-xx,Contenir,restreindre les manoeuvres (militaire) adverse.
+OBJ-001,Déterminer les objectifs,Définir des objectifs intermédiaires permettant d'atteindre l'état final recherché.
+OBJ-002,Accélérer un processus,"Accélérer un processus consiste à augmenter la vitesse à laquelle une série d'actions ou d'opérations est réalisée pour atteindre un résultat plus rapidement."
+OBJ-003,Ralentir un processus,"Ralentir un processus implique de retarder délibérément son déroulement ou sa progression normale."
+OBJ-004,Acquérir de l'information,"Actions juridiques, procédurales, techniques et humaines conçues pour collecter ou extraire des informations."
+OBJ-005,Protéger de l'information,Empêcher l’accès non autorisé à l’information.
+OBJ-006,Désinformer,"Induire un ennemi en erreur afin de le faire adopter une attitude inadéquate."
+OBJ-007,Intoxiquer,"Injecter des informations erronées pour fausser le jugement."
+OBJ-008,Simuler,"Masquer les préparatifs d’une opération et leurrer l’adversaire."
+OBJ-009,Imiter,"Reconstituer des éléments fictifs pour tromper les moyens de reconnaissance."
+OBJ-010,Dissimuler,"Cacher une information ou une action."
+OBJ-011,Divulguer de l'information,Diffuser volontairement une information.
+OBJ-012,Récolter de l'argent,Obtenir des ressources financières.
+OBJ-013,Dégrader l'image de l'adversaire,"Porter atteinte à la réputation ou à la crédibilité."
+OBJ-014,Motiver à agir,"Persuader, forcer ou provoquer une cible à agir."
+OBJ-015,Provoquer,"Pousser une cible à une réaction."
+OBJ-016,Encourager,"Inciter une cible à agir par des moyens directs ou indirects."
+OBJ-017,Encourager la délation,"Inciter à dénoncer secrètement des comportements."
+OBJ-018,Contraindre,"Forcer une cible à agir ou à cesser une action."
+OBJ-019,Dissuader d'agir,"Empêcher une action par la crainte des conséquences."
+OBJ-020,Dissuader,"Amener la cible à s’abstenir par peur des conséquences."
+OBJ-021,Réduire au silence,"Empêcher ou intimider l’expression."
+OBJ-022,Décourager,"Rendre la cible hésitante ou réticente à agir."
+OBJ-023,Réparer un préjudice,"Obtenir compensation pour un dommage subi."
+OBJ-024,Sanctionner un comportement,"Imposer des sanctions."
+OBJ-025,Nuire,Causer un dommage intentionnel.
+OBJ-026,Saboter,"Détruire ou endommager un système ou un processus."
+OBJ-027,Diffamer ou calomnier,"Dénigrer un adversaire par des accusations infondées."
+OBJ-028,Légitimer,"Faire reconnaître quelque chose comme légitime."
+OBJ-029,Faire reconnaître l'existence d'un droit,"Promouvoir l’acceptation d’un droit légitime."
+OBJ-030,Contenir,"Restreindre les manœuvres adverses."
