@@ -23,12 +23,12 @@ FORMAT DU USECASE
 
   "attaquant": {
     "type_attaquant": string (state, non-state, entreprise, individu),
-    "attaquant_pays_nato": string (code pays OTAN ou NON-OTAN)
+    "attaquant_pays_nato": string (code pays OTAN OR string)
   },
 
   "victime": {
     "type_victime": string,
-    "victime_nom": string
+    "victime_nom": string (code OTAN OR string)
   },
 
   "classification": {
