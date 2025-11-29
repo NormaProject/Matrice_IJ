@@ -1,0 +1,19 @@
+ID,nom,description
+PROC-001,Procédure de référé,Procédure judiciaire d’urgence.
+PROC-002,Consignation,Dépôt légal de garantie.
+PROC-003,Référé expertise,Désignation judiciaire d’un expert.
+PROC-004,Référé provision,Avance judiciaire sur obligation non contestée.
+PROC-005,Astreinte,Condamnation pécuniaire incitative.
+PROC-006,Action directe,Action du créancier contre le débiteur du débiteur.
+PROC-007,Action oblique,Action exercée au nom du débiteur défaillant.
+PROC-008,Action paulienne,Inopposabilité des actes frauduleux.
+PROC-009,Action récursoire,Action contre un garant.
+PROC-010,Récusation,Demande d’écartement d’un juge.
+PROC-011,Mesure d’instruction,Mesure ordonnée pour établir la preuve.
+PROC-012,Divulgation juridique,Échange obligatoire d’informations entre parties.
+PROC-013,Contrôle juridictionnel élargi,Extension du contrôle judiciaire à des domaines exécutifs.
+PROC-014,Contentieux constitutionnel stratégique,Saisine à finalité politique des cours constitutionnelles.
+PROC-015,Procédure administrative contentieuse,Recours devant autorités de régulation.
+PROC-016,Recours collectifs coordonnés,Actions conjointes sur plusieurs fronts.
+PROC-017,Plainte pénale internationale,Saisine d’instances pénales internationales.
+PROC-018,Mécanisme de sanctions ciblées,Procédures de sanctions économiques ou personnelles.
