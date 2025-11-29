@@ -1,20 +1,19 @@
-DATA MODEL – VERSION ACTUALISÉE AVEC GESTION DES CAS NULL
+DATA MODEL – VERSION AVANCÉE AVEC MATCH STRICT, MATCH SOUPLE, GESTION DES CAS NULL ET POSITIONS DE TEXTE
 
-Le modèle ci-dessous décrit la structure à utiliser pour analyser un cas d’influence, d’ingérence ou de stratégie hybride. Toutes les classifications doivent être faites en tentant d’abord un match strict avec les trois fichiers de référence :
+Le modèle ci-dessous décrit la structure pour analyser un cas d’influence, d’ingérence ou de stratégie hybride.
+Toutes les classifications doivent être faites en tentant d’abord un match strict avec les fichiers suivants :
 
-capacites.csv
-objectifs.csv
-techniques.csv
+- capacites.csv
+- objectifs.csv
+- techniques.csv
 
-Si aucun match n’est possible, le LLM doit renvoyer null. Dans ce cas, il peut ensuite proposer de nouvelles catégories dans les champs dédiés (*_proposition).
+Si aucun match strict n’est possible → tenter un match souple (similarité sémantique).
+Si le match souple échoue → renvoyer null et proposer une nouvelle catégorie.
 
-RÈGLE TEMPORELLE IMPORTANTE :
-La valeur de "date_analyse_zulu" doit toujours être générée ainsi :
-1. Le LLM utilise l’heure locale Europe/Paris.
-2. Il convertit cette heure en UTC (Zulu), en tenant compte du décalage (UTC+1 ou UTC+2 selon DST).
-3. Il produit le résultat final au format datetime ISO 8601 (ex : 2025-11-29T22:52:00Z).
+Le match souple doit retourner un score (0–100).
+Chaque classification doit indiquer la position du passage du texte source ayant motivé la détection, sous la forme d’un intervalle [start, end].
 
-FORMAT DU USECASE
+FORMAT DU USECASE :
 
 {
   "usecase_id": string unique,
@@ -28,46 +27,73 @@ FORMAT DU USECASE
   "mecanisme_juridique": string,
 
   "attaquant": {
-    "type_attaquant": string (state, non-state, entreprise, individu),
-    "attaquant_pays_nato": string (code pays OTAN OR string)
+    "type_attaquant": string,
+    "attaquant_pays_nato": string
   },
 
   "victime": {
     "type_victime": string,
-    "victime_nom": string (code OTAN OR string)
+    "victime_nom": string
   },
 
   "classification": {
     "techniques_id": [liste de TECH_ID ou null],
     "techniques_match": boolean,
-    "techniques_proposition": [liste de nouvelles techniques proposées],
+    "techniques_match_souple": [
+      {
+        "candidate": string,
+        "score": number,
+        "position": [start, end]
+      }
+    ],
+    "techniques_proposition": [
+      {
+        "label": string,
+        "position": [start, end]
+      }
+    ],
 
     "objectifs_id": [liste de OBJECTIF_ID ou null],
     "objectifs_match": boolean,
-    "objectifs_proposition": [liste de nouveaux objectifs proposés],
+    "objectifs_match_souple": [
+      {
+        "candidate": string,
+        "score": number,
+        "position": [start, end]
+      }
+    ],
+    "objectifs_proposition": [
+      {
+        "label": string,
+        "position": [start, end]
+      }
+    ],
 
     "capacites_id": [liste de CAPACITE_ID ou null],
     "capacites_match": boolean,
-    "capacites_proposition": [liste de nouvelles capacités proposées]
+    "capacites_match_souple": [
+      {
+        "candidate": string,
+        "score": number,
+        "position": [start, end]
+      }
+    ],
+    "capacites_proposition": [
+      {
+        "label": string,
+        "position": [start, end]
+      }
+    ]
   }
 }
 
-RÈGLES
+RÈGLES :
 
-Le LLM tente toujours un match strict avec les trois CSV.
-
-Si un match existe :
-- remplir *_id avec les ID trouvés
-- mettre *_match = true
-- mettre *_proposition = []
-
-Si aucun match n’existe :
-- mettre *_id = null
-- mettre *_match = false
-- remplir *_proposition avec de nouvelles catégories cohérentes
-
-Les propositions doivent être courtes, cohérentes et réutilisables.
-
-Le JSON produit doit respecter strictement la structure ci-dessus.
-
-Aucune explication ne doit figurer dans le JSON, sauf dans resume et mecanisme_juridique.
+1. Match strict obligatoire.
+2. Si strict = false → match souple.
+3. Le match souple doit lister jusqu’à 3 suggestions avec score et position.
+4. Si score < 60% → considérer que ce n’est pas un match exploitable.
+5. Si strict + souple échouent → produire *_proposition avec positions.
+6. Les positions doivent refléter l’endroit exact du texte source ayant motivé la détection.
+7. date_analyse_zulu doit être générée depuis Europe/Paris puis convertie en UTC/Zulu.
+8. Aucun texte hors resume et mecanisme_juridique ne doit être ajouté.
