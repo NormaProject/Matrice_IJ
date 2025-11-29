@@ -1,19 +1,18 @@
 ID,nom,description
-CAP-001,Veille juridique,Surveillance continue des évolutions du droit.
-CAP-002,Veille brevet,Surveillance des dépôts et publications de brevets.
-CAP-003,Veille jurisprudentielle,Analyse continue des décisions de justice.
-CAP-004,Veille doctrinale,Surveillance de la production doctrinale.
-CAP-005,Veille contractuelle,Surveillance des pratiques contractuelles.
-CAP-006,Veille législative,Surveillance de l’activité parlementaire.
-CAP-007,Veille réglementaire,Surveillance des textes d’application.
-CAP-009,Enquête en source ouverte,Collecte d’informations publiques.
-CAP-010,Recours à un détective privé,Investigations confiées à un tiers.
-CAP-012,Ingénierie sociale,Manipulation exploitant la confiance humaine.
-CAP-013,Constat d’huissier,Établissement de preuve par officier public.
-CAP-014,Capacité contentieuse internationale,Aptitude à agir sur plusieurs juridictions.
-CAP-015,Expertise normative,Capacité à produire ou influencer des normes juridiques.
-CAP-016,Appareil juridique offensif,Structure dédiée au contentieux stratégique.
-CAP-017,Relais ONG juridiques,Utilisation d’ONG comme vecteurs procéduraux.
-CAP-018,Coordination juridico-diplomatique,Alignement de l’action juridique avec la diplomatie.
-CAP-019,Capacité de compliance forcée,Imposition indirecte de règles réglementaires.
-CAP-020,Maîtrise de la communication judiciaire,Contrôle du narratif public autour des procédures.
+CAP-001,Veille juridique,"Dispositif permanent de surveillance, de collecte et d’analyse des évolutions du droit."
+CAP-002,Veille brevet,"Capacité organisationnelle de suivi continu des dépôts, publications et contentieux en matière de brevets."
+CAP-003,Veille jurisprudentielle,"Fonction structurée d’analyse et de suivi des décisions de justice et de leurs évolutions interprétatives."
+CAP-004,Veille doctrinale,"Aptitude à surveiller et analyser de manière continue la production doctrinale et académique."
+CAP-005,Veille contractuelle,"Capacité à collecter, maintenir et analyser des pratiques contractuelles et clauses types."
+CAP-006,Veille législative,"Dispositif de suivi systématique de l’activité parlementaire et des projets normatifs."
+CAP-007,Veille réglementaire,"Fonction dédiée à la surveillance continue des textes d’application et normes secondaires."
+CAP-009,Capacité d’enquête en source ouverte,"Aptitude structurée à collecter, corréler et exploiter des informations accessibles publiquement."
+CAP-010,Capacité de recours à des tiers d’enquête,"Aptitude organisationnelle à mobiliser et piloter des enquêteurs privés ou experts externes."
+CAP-012,Capacité d’exploitation de la confiance humaine,"Savoir-faire durable permettant d’obtenir des informations ou influences par interaction humaine structurée."
+CAP-013,Capacité probatoire par officier public,"Aptitude à mobiliser des officiers publics pour établir des preuves juridiquement opposables."
+CAP-014,Capacité contentieuse internationale,"Aptitude organisationnelle à initier, coordonner et soutenir des contentieux dans plusieurs juridictions."
+CAP-015,Expertise normative,"Capacité à analyser, produire ou influencer des normes juridiques ou techniques."
+CAP-016,Appareil juridique offensif,"Structure dédiée et pérenne au contentieux stratégique et à l’action juridique coordonnée."
+CAP-017,Capacité de mobilisation de relais associatifs,"Aptitude à s’appuyer durablement sur des ONG ou structures associatives à des fins juridiques."
+CAP-018,Coordination juridico-diplomatique,"Capacité à aligner l’action juridique avec des objectifs diplomatiques ou institutionnels."
+CAP-019,Capacité de contrainte par compliance,"Aptitude à imposer indirectement des règles par des mécanismes de conformité réglementaire."
