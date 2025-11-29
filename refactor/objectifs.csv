@@ -1,26 +1,26 @@
 ID,nom,description
-OBJ-001,Déterminer les objectifs,Définir des objectifs intermédiaires permettant d'atteindre l'état final recherché.
-OBJ-002,Accélérer un processus,Accélérer un processus consiste à augmenter la vitesse à laquelle une série d'actions ou d'opérations est réalisée.
-OBJ-003,Ralentir un processus,Ralentir un processus implique de retarder délibérément son déroulement.
-OBJ-004,Acquérir de l'information,Actions conçues pour collecter ou extraire des informations.
-OBJ-005,Protéger de l'information,Empêcher l’accès non autorisé à l’information.
-OBJ-006,Divulguer de l'information,Diffuser volontairement une information.
-OBJ-007,Motiver à agir,Persuader ou provoquer une cible à agir.
-OBJ-008,Contraindre,Forcer une cible à agir ou à arrêter une action.
-OBJ-009,Dissuader d'agir,Empêcher la cible de mener des actions défavorables.
-OBJ-010,Nuire,Causer un dommage intentionnel.
-OBJ-011,Réparer un préjudice,Obtenir compensation pour des dommages subis.
-OBJ-012,Sanctionner un comportement,Imposer des sanctions.
-OBJ-013,Légitimer,Faire reconnaître quelque chose comme légitime.
-OBJ-014,Contenir,Restreindre les manœuvres adverses.
+OBJ-001,Déterminer les objectifs,Définir l’état final recherché.
+OBJ-002,Accélérer un processus,Réduire le temps nécessaire pour atteindre un résultat.
+OBJ-003,Ralentir un processus,Retarder volontairement une décision ou une action.
+OBJ-004,Acquérir de l’information,Obtenir des informations exploitables.
+OBJ-005,Protéger l’information,Empêcher l’accès ou l’usage non autorisé.
+OBJ-006,Induire en erreur,Altérer la perception ou le jugement d’une cible.
+OBJ-007,Divulguer de l’information,Rendre une information accessible à des tiers.
+OBJ-008,Motiver à agir,Inciter une cible à entreprendre une action.
+OBJ-009,Contraindre,Forcer une cible à agir ou à cesser d’agir.
+OBJ-010,Dissuader d’agir,Empêcher une action par anticipation des conséquences.
+OBJ-011,Nuire,Causer un préjudice intentionnel.
+OBJ-012,Réparer un préjudice,Obtenir une compensation ou une réparation.
+OBJ-013,Sanctionner,Imposer une peine ou une mesure punitive.
+OBJ-014,Légitimer,Faire reconnaître une action ou une position comme légitime.
+OBJ-015,Contenir,Limiter les manœuvres ou capacités adverses.
 OBJ-016,Judiciariser un conflit,Déplacer un conflit politique ou stratégique dans l’arène juridique.
 OBJ-017,Internationaliser un différend,Porter un conflit au-delà du cadre national.
 OBJ-018,Paralyser un acteur,Multiplier les contraintes juridiques pour empêcher l’action.
 OBJ-019,Légitimer une opération,Fournir une justification juridique à une action contestée.
-OBJ-020,Accroître les coûts adverses,Augmenter les coûts financiers, réputationnels ou procéduraux.
+OBJ-020,Accroître les coûts adverses,Augmenter les coûts financiers réputationnels ou procéduraux.
 OBJ-021,Gagner du temps,Retarder une décision défavorable.
-OBJ-022,Créer un précédent juridique,Obtenir une décision utilisable dans des cas futurs.
+OBJ-022,Créer un précédent juridique,Obtenir une décision exploitable dans des affaires futures.
 OBJ-023,Restreindre l’accès au marché,Empêcher ou limiter l’accès économique par le droit.
 OBJ-024,Neutraliser une organisation,Réduire la capacité opérationnelle par des mesures légales.
 OBJ-025,Modeler les normes futures,Influencer l’évolution du cadre normatif.
-
