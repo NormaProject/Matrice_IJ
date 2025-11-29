@@ -8,6 +8,12 @@ techniques.csv
 
 Si aucun match n’est possible, le LLM doit renvoyer null. Dans ce cas, il peut ensuite proposer de nouvelles catégories dans les champs dédiés (*_proposition).
 
+RÈGLE TEMPORELLE IMPORTANTE :
+La valeur de "date_analyse_zulu" doit toujours être générée ainsi :
+1. Le LLM utilise l’heure locale Europe/Paris.
+2. Il convertit cette heure en UTC (Zulu), en tenant compte du décalage (UTC+1 ou UTC+2 selon DST).
+3. Il produit le résultat final au format datetime ISO 8601 (ex : 2025-11-29T22:52:00Z).
+
 FORMAT DU USECASE
 
 {
@@ -56,4 +62,12 @@ Si un match existe :
 - mettre *_proposition = []
 
 Si aucun match n’existe :
-- mettr
+- mettre *_id = null
+- mettre *_match = false
+- remplir *_proposition avec de nouvelles catégories cohérentes
+
+Les propositions doivent être courtes, cohérentes et réutilisables.
+
+Le JSON produit doit respecter strictement la structure ci-dessus.
+
+Aucune explication ne doit figurer dans le JSON, sauf dans resume et mecanisme_juridique.
