@@ -1,4 +1,6 @@
 # Matrice_IJ
+![Version](https://img.shields.io/badge/Version-1.0-green)
+
 
 ## L'opérateur
 
@@ -34,5 +36,13 @@ Clé correspondance Technique :
 ## Tactique
 
 
+## 📚 Références
+
+- [DISARM Framework](https://github.com/DISARMFoundation/DISARMFramework) - Inspiration pour la structuration des phases
+- [AMITT Framework](https://github.com/cogsec-collaborative/AMITT) - Taxonomie des techniques de manipulation de l'information
+
+## 📄 Licence
+
+Ce framework est distribué sous licence [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).
 
 
