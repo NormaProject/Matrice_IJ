@@ -1,0 +1,250 @@
+alpha3,alpha2,pays
+AFG,AF,Afghanistan
+ALA,AX,Îles Åland
+ALB,AL,Albanie
+DZA,DZ,Algérie
+ASM,AS,Samoa américaines
+AND,AD,Andorre
+AGO,AO,Angola
+AIA,AI,Anguilla
+ATA,AQ,Antarctique
+ATG,AG,Antigua-et-Barbuda
+ARG,AR,Argentine
+ARM,AM,Arménie
+ABW,AW,Aruba
+AUS,AU,Australie
+AUT,AT,Autriche
+AZE,AZ,Azerbaïdjan
+BHS,BS,Bahamas
+BHR,BH,Bahreïn
+BGD,BD,Bangladesh
+BRB,BB,Barbade
+BLR,BY,Biélorussie
+BEL,BE,Belgique
+BLZ,BZ,Belize
+BEN,BJ,Bénin
+BMU,BM,Bermudes
+BTN,BT,Bhoutan
+BOL,BO,Bolivie
+BES,BQ,Bonaire, Saint-Eustache et Saba
+BIH,BA,Bosnie-Herzégovine
+BWA,BW,Botswana
+BVT,BV,Île Bouvet
+BRA,BR,Brésil
+IOT,IO,Territoire britannique de l’océan Indien
+BRN,BN,Brunéi Darussalam
+BGR,BG,Bulgarie
+BFA,BF,Burkina Faso
+BDI,BI,Burundi
+CPV,CV,Cabo Verde
+KHM,KH,Cambodge
+CMR,CM,Cameroun
+CAN,CA,Canada
+CYM,KY,Îles Caïmans
+CAF,CF,République centrafricaine
+TCD,TD,Tchad
+CHL,CL,Chili
+CHN,CN,Chine
+CXR,CX,Île Christmas
+CCK,CC,Îles Cocos
+COL,CO,Colombie
+COM,KM,Comores
+COG,CG,Congo
+COD,CD,République démocratique du Congo
+COK,CK,Îles Cook
+CRI,CR,Costa Rica
+CIV,CI,Côte d’Ivoire
+HRV,HR,Croatie
+CUB,CU,Cuba
+CUW,CW,Curaçao
+CYP,CY,Chypre
+CZE,CZ,Tchéquie
+DNK,DK,Danemark
+DJI,DJ,Djibouti
+DMA,DM,Dominique
+DOM,DO,République dominicaine
+ECU,EC,Équateur
+EGY,EG,Égypte
+SLV,SV,Salvador
+GNQ,GQ,Guinée équatoriale
+ERI,ER,Érythrée
+EST,EE,Estonie
+SWZ,SZ,Eswatini
+ETH,ET,Éthiopie
+FLK,FK,Îles Falkland
+FRO,FO,Îles Féroé
+FJI,FJ,Fidji
+FIN,FI,Finlande
+FRA,FR,France
+GUF,GF,Guyane française
+PYF,PF,Polynésie française
+ATF,TF,Terres australes françaises
+GAB,GA,Gabon
+GMB,GM,Gambie
+GEO,GE,Géorgie
+DEU,DE,Allemagne
+GHA,GH,Ghana
+GIB,GI,Gibraltar
+GRC,GR,Grèce
+GRL,GL,Groenland
+GRD,GD,Grenade
+GLP,GP,Guadeloupe
+GUM,GU,Guam
+GTM,GT,Guatemala
+GGY,GG,Guernesey
+GIN,GN,Guinée
+GNB,GW,Guinée-Bissau
+GUY,GY,Guyana
+HTI,HT,Haïti
+HMD,HM,Îles Heard et McDonald
+VAT,VA,Cité du Vatican
+HND,HN,Honduras
+HKG,HK,Hong Kong
+HUN,HU,Hongrie
+ISL,IS,Islande
+IND,IN,Inde
+IDN,ID,Indonésie
+IRN,IR,Iran
+IRQ,IQ,Irak
+IRL,IE,Irlande
+IMN,IM,Île de Man
+ISR,IL,Israël
+ITA,IT,Italie
+JAM,JM,Jamaïque
+JPN,JP,Japon
+JEY,JE,Jersey
+JOR,JO,Jordanie
+KAZ,KZ,Kazakhstan
+KEN,KE,Kenya
+KIR,KI,Kiribati
+PRK,KP,Corée du Nord
+KOR,KR,Corée du Sud
+KWT,KW,Koweït
+KGZ,KG,Kirghizistan
+LAO,LA,Laos
+LVA,LV,Lettonie
+LBN,LB,Liban
+LSO,LS,Lesotho
+LBR,LR,Libéria
+LBY,LY,Libye
+LIE,LI,Liechtenstein
+LTU,LT,Lituanie
+LUX,LU,Luxembourg
+MAC,MO,Macao
+MDG,MG,Madagascar
+MWI,MW,Malawi
+MYS,MY,Malaisie
+MDV,MV,Maldives
+MLI,ML,Mali
+MLT,MT,Malte
+MHL,MH,Îles Marshall
+MTQ,MQ,Martinique
+MRT,MR,Mauritanie
+MUS,MU,Maurice
+MYT,YT,Mayotte
+MEX,MX,Mexique
+FSM,FM,Micronésie
+MDA,MD,Moldavie
+MCO,MC,Monaco
+MNG,MN,Mongolie
+MNE,ME,Monténégro
+MSR,MS,Montserrat
+MAR,MA,Maroc
+MOZ,MZ,Mozambique
+MMR,MM,Myanmar
+NAM,NA,Namibie
+NRU,NR,Nauru
+NPL,NP,Népal
+NLD,NL,Pays-Bas
+NCL,NC,Nouvelle-Calédonie
+NZL,NZ,Nouvelle-Zélande
+NIC,NI,Nicaragua
+NER,NE,Niger
+NGA,NG,Nigeria
+NIU,NU,Niue
+NFK,NF,Île Norfolk
+MKD,MK,Macédoine du Nord
+MNP,MP,Îles Mariannes du Nord
+NOR,NO,Norvège
+OMN,OM,Oman
+PAK,PK,Pakistan
+PLW,PW,Palaos
+PSE,PS,Palestine
+PAN,PA,Panama
+PNG,PG,Papouasie-Nouvelle-Guinée
+PRY,PY,Paraguay
+PER,PE,Pérou
+PHL,PH,Philippines
+PCN,PN,Îles Pitcairn
+POL,PL,Pologne
+PRT,PT,Portugal
+PRI,PR,Porto Rico
+QAT,QA,Qatar
+REU,RE,La Réunion
+ROU,RO,Roumanie
+RUS,RU,Russie
+RWA,RW,Rwanda
+BLM,BL,Saint-Barthélemy
+SHN,SH,Sainte-Hélène
+KNA,KN,Saint-Christophe-et-Niévès
+LCA,LC,Sainte-Lucie
+MAF,MF,Saint-Martin
+SPM,PM,Saint-Pierre-et-Miquelon
+VCT,VC,Saint-Vincent-et-les-Grenadines
+WSM,WS,Samoa
+SMR,SM,Saint-Marin
+STP,ST,Sao Tomé-et-Principe
+SAU,SA,Arabie saoudite
+SEN,SN,Sénégal
+SRB,RS,Serbie
+SYC,SC,Seychelles
+SLE,SL,Sierra Leone
+SGP,SG,Singapour
+SXM,SX,Saint-Martin (NL)
+SVK,SK,Slovaquie
+SVN,SI,Slovénie
+SLB,SB,Îles Salomon
+SOM,SO,Somalie
+ZAF,ZA,Afrique du Sud
+SGS,GS,Géorgie du Sud et Sandwich du Sud
+SSD,SS,Soudan du Sud
+ESP,ES,Espagne
+LKA,LK,Sri Lanka
+SDN,SD,Soudan
+SUR,SR,Suriname
+SJM,SJ,Svalbard et Jan Mayen
+SWE,SE,Suède
+CHE,CH,Suisse
+SYR,SY,Syrie
+TWN,TW,Taïwan
+TJK,TJ,Tadjikistan
+TZA,TZ,Tanzanie
+THA,TH,Thaïlande
+TLS,TL,Timor-Leste
+TGO,TG,Togo
+TKL,TK,Tokelau
+TON,TO,Tonga
+TTO,TT,Trinité-et-Tobago
+TUN,TN,Tunisie
+TUR,TR,Türkiye
+TKM,TM,Turkménistan
+TCA,TC,Îles Turques-et-Caïques
+TUV,TV,Tuvalu
+UGA,UG,Ouganda
+UKR,UA,Ukraine
+ARE,AE,Émirats arabes unis
+GBR,GB,Royaume-Uni
+USA,US,États-Unis
+UMI,UM,Îles mineures éloignées des États-Unis
+URY,UY,Uruguay
+UZB,UZ,Ouzbékistan
+VUT,VU,Vanuatu
+VEN,VE,Venezuela
+VNM,VN,Vietnam
+VGB,VG,Îles Vierges britanniques
+VIR,VI,Îles Vierges des États-Unis
+WLF,WF,Wallis-et-Futuna
+ESH,EH,Sahara occidental
+YEM,YE,Yémen
+ZMB,ZM,Zambie
+ZWE,ZW,Zimbabwe
