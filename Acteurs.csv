@@ -68,7 +68,7 @@ ACT005.009,Lobbyiste / Représentant d'intérêts,"Professionnel influençant le
 ACT005.010,Lanceur d’alerte,"Personne révélant un manquement ou une fraude bénéficiant d’une protection."
 ACT005.011,Plaignant,"Partie déposant une plainte formelle."
 ACT005.012,Victime,"Personne ayant subi un préjudice ouvrant droit à réparation."
-ACT006,Acteurs sociaux, de santé et de risques humains,"Entités influençant les droits sociaux, la santé publique ou les vulnérabilités humaines."
+ACT006,"Acteurs sociaux, de santé et de risques humains","Entités influençant les droits sociaux, la santé publique ou les vulnérabilités humaines."
 ACT006.001,Professionnel de santé,"Acteur produisant certificats ou avis médicaux opposables."
 ACT006.002,Agence de protection sociale,"Institution attribuant prestations et aides publiques."
 ACT006.003,Intermédiaire immobilier,"Acteur impliqué dans des transactions ou gestion immobilière."
