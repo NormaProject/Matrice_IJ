@@ -14,7 +14,7 @@ ACT001.011,Administrateur de créances,"Responsable de la gestion des réclamati
 ACT001.012,Arbitre,"Tiers neutre rendant une décision dans un arbitrage."
 ACT001.013,Médiateur,"Intermédiaire neutre facilitant une résolution négociée."
 ACT001.014,Conciliateur,"Acteur aidant les parties à parvenir à une solution amiable."
-ACT002,Organes de régulation, d’inspection et d’exécution,"Organismes chargés de la conformité réglementaire, du contrôle, de l’inspection ou de l'administration publique."
+ACT002,"Organes de régulation, d’inspection et d’exécution","Organismes chargés de la conformité réglementaire, du contrôle, de l’inspection ou de l'administration publique."
 ACT002.001,Autorité de régulation indépendante,"Organisme autonome régulant un secteur spécifique (données, finances, télécom…)."
 ACT002.002,Inspection du travail,"Autorité contrôlant l'application des lois du travail et de la sécurité."
 ACT002.003,Service de santé au travail,"Entité surveillant la santé et la sécurité des travailleurs."
