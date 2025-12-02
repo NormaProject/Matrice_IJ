@@ -1,0 +1,51 @@
+id_branche,famille_juridique,nom_branche,groupe_conceptuel,id_metaconcept,nom_metaconcept
+BR-U-001,Global,Organisation de l'État et des pouvoirs,Organisation_Etat,MC-006,Pouvoir public
+BR-U-002,Global,Relations entre personnes privées,Relations_Privées,MC-001,Personne
+BR-U-003,Global,Protection des droits et libertés,Droits_Fondamentaux,MC-007,Ordre social
+BR-U-004,Global,Responsabilité et réparation,Responsabilité,MC-003,Responsabilité
+BR-U-005,Global,Sanction des comportements prohibés,Sanction,MC-004,Sanction
+BR-U-006,Global,Régulation économique,Gouvernance_Eco,MC-008,Gouvernance économique
+BR-U-007,Global,Protection sociale et travail,Protection_Sociale,MC-007,Ordre social
+BR-U-008,Global,Protection de l’environnement,Environnement,MC-002,Propriété
+BR-U-009,Global,Normes procédurales,Procédure,MC-005,Procédure
+BR-U-010,Global,Normes technologiques et numériques,Numérique,MC-009,Information et données
+BR-CIV-001,CivilLaw,Droit constitutionnel,Organisation_Etat,MC-006,Pouvoir public
+BR-CIV-002,CivilLaw,Droit administratif,Administration,MC-006,Pouvoir public
+BR-CIV-003,CivilLaw,Droit civil,Relations_Privées,MC-001,Personne
+BR-CIV-004,CivilLaw,Droit commercial et des affaires,Gouvernance_Eco,MC-008,Gouvernance économique
+BR-CIV-005,CivilLaw,Droit du travail,Protection_Sociale,MC-007,Ordre social
+BR-CIV-006,CivilLaw,Droit pénal,Sanction,MC-004,Sanction
+BR-CIV-007,CivilLaw,Droit fiscal,Fiscalité,MC-008,Gouvernance économique
+BR-CIV-008,CivilLaw,Droit international privé,Transnational,MC-008,Gouvernance économique
+BR-COM-001,CommonLaw,Constitutional Law,Organisation_Etat,MC-006,Pouvoir public
+BR-COM-002,CommonLaw,Contract Law,Relations_Privées,MC-001,Personne
+BR-COM-003,CommonLaw,Tort Law,Responsabilité,MC-003,Responsabilité
+BR-COM-004,CommonLaw,Property Law,Propriété,MC-002,Propriété
+BR-COM-005,CommonLaw,Equity & Trusts,Equité,MC-002,Propriété
+BR-COM-006,CommonLaw,Criminal Law,Sanction,MC-004,Sanction
+BR-COM-007,CommonLaw,Evidence Law,Procédure,MC-005,Procédure
+BR-COM-008,CommonLaw,Administrative Law / Agencies,Administration,MC-006,Pouvoir public
+BR-ISL-001,IslamicLaw,Droit du statut personnel,Ordre_Social,MC-007,Ordre social
+BR-ISL-002,IslamicLaw,Droit des transactions (Muamalat),Transactions,MC-008,Gouvernance économique
+BR-ISL-003,IslamicLaw,Droit pénal islamique,Sanction,MC-004,Sanction
+BR-ISL-004,IslamicLaw,Droit des fondations (Waqf),Propriété,MC-002,Propriété
+BR-ISL-005,IslamicLaw,Gouvernance selon la charia,Organisation_Etat,MC-006,Pouvoir public
+BR-ISL-006,IslamicLaw,Droit étatique moderne (Qanun),Hybrid,MC-003,Responsabilité
+BR-SIN-001,SinoChina,Droit de l’État-parti,Organisation_Etat,MC-006,Pouvoir public
+BR-SIN-002,SinoChina,Droit administratif de gouvernance,Administration,MC-006,Pouvoir public
+BR-SIN-003,SinoChina,Droit de la sécurité nationale,Sanction,MC-004,Sanction
+BR-SIN-004,SinoChina,Droit numérique étatique,Numérique,MC-009,Information et données
+BR-SIN-005,SinoChina,Droit civil codifié,Relations_Privées,MC-001,Personne
+BR-PSV-001,PostSoviet,Droit de la sécurité de l’État,Sanction,MC-004,Sanction
+BR-PSV-002,PostSoviet,Droit administratif répressif,Administration,MC-006,Pouvoir public
+BR-PSV-003,PostSoviet,Droit des ONG et médias,Société,MC-007,Ordre social
+BR-PSV-004,PostSoviet,Droit pénal politique,Sanction,MC-004,Sanction
+BR-COUT-001,Customary,Droit coutumier familial,Ordre_Social,MC-007,Ordre social
+BR-COUT-002,Customary,Droit foncier coutumier,Propriété,MC-002,Propriété
+BR-COUT-003,Customary,Justice coutumière,Responsabilité,MC-003,Responsabilité
+BR-COUT-004,Customary,Droit mixte étatico-coutumier,Hybrid,MC-003,Responsabilité
+BR-REL-001,ReligiousOther,Droit personnel religieux non islamique,Ordre_Social,MC-007,Ordre social
+BR-REL-002,ReligiousOther,Droit économique religieux,Gouvernance_Eco,MC-008,Gouvernance économique
+BR-REL-003,ReligiousOther,Droit communautaire religieux,Société,MC-007,Ordre social
+BR-HYB-001,Hybrid,Systèmes hybrides constitutionnels,Hybrid,MC-003,Responsabilité
+BR-HYB-002,Hybrid,Droit transnational,Transnational,MC-008,Gouvernance économique
